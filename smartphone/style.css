@@ -1,12 +1,16 @@
 body {
-    background-image: url('https://wallpapercave.com/wp/wp3284839.gif');
+    background-image: url('https://cdn.dribbble.com/users/594158/screenshots/2321425/cemetery_animationcycled.gif');
     background-size: cover;
+
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
 
 .container {
-    border: 3px solid rgb(14, 14, 14);
+    border: 3px solid #282942;
     border-radius: 45px;
-    background: rgb(14, 14, 14);    
+    background: #282942;    
     
     
     display: flex;
@@ -66,7 +70,7 @@ body {
     height: 60px;
     background: rgb(57, 58, 89);
     margin: 3px;
-    border-radius: 15px;
+    border-radius: 10px;
 
     display: flex;
     align-items: center;
