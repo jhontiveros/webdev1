@@ -1,3 +1,63 @@
-h1 {
-    color: red;
+.container {
+    border: 3px solid pink;
+    border-radius: 15px;
+    
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+    align-items: center;
+
+    height: auto;
+    width: 410px;
+    margin: 0 auto;
+}
+
+.left {
+    border: 2px solid red;
+    border-radius: 15px;
+    height: 650px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.mleft {
+    border: 2px solid red;
+    border-radius: 15px;
+    height: 650px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.mright {
+    border: 2px solid red;
+    border-radius: 15px;
+    height: 650px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.right {
+    border: 2px solid red;
+    border-radius: 15px;
+    height: 650px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    background: cornflowerblue;
+    margin: auto;
+    border-radius: 15px;
 }
