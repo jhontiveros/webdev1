@@ -4,10 +4,10 @@ header {
   }
   
   .boo {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     position: fixed;
-    top: 60px;
+    top: 30px;
   }
   
   body {
