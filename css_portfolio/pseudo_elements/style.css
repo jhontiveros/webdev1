@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: salmon;
+    font-size: 65px;
+}
+
+.b4::before {
+    content: url(images/rose.png)
+}
+
+.af::after {
+    content: url(images/rose.png)
+}
