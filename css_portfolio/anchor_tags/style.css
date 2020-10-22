@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h1, h2{
+    color: white;
+}
+
+h2{
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+h3 {
+    color: silver;
+    font-size: 15px;
+}
+
+p{
+    color: white;
+    width: 600px;
+    font-size: 20px;
+}
+
+a:link {
+    color: red;
+}
