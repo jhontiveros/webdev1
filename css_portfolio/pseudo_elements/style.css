@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: black;
 }
 
 h1 {
@@ -7,14 +7,14 @@ h1 {
 }
 
 h2 {
-    color: salmon;
+    color: red;
     font-size: 65px;
 }
 
 .b4::before {
-    content: url(images/rose.png)
+    content: url(images/demo.png)
 }
 
 .af::after {
-    content: url(images/rose.png)
+    content: url(images/demo.png)
 }
