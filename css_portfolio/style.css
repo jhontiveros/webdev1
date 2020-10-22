@@ -1,3 +1,42 @@
-h1 {
-    color: blueviolet;
+body {
+    background-color: black;
+}
+
+img {
+    max-width: 135px;
+}
+
+a {
+    margin: 10px;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited{
+    color: silver;
+}
+
+.stheader {
+    max-width: 700px;
+    margin-left: 5px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-evenly;
+}
+
+.title {
+    margin-bottom: 30px;
+}
+
+.box1, .box2, .box3, .box4{
+    margin-bottom: 20px;
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
 }
