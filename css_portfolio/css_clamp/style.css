@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.box {
+    background-color: red;
+    width: clamp(350px, 50%, 800px);
+    height: 300px;
+    border-radius: 10px;
+    
+
+    display: flex;
+    justify-content: center;
+}
+
+.summary {
+    margin: 10px;
+    font-size: 19px;
+    color: white;
+}
+
+.desc {
+    color: red;
+}
