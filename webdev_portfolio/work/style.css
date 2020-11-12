@@ -51,13 +51,11 @@ body {
 .about {
     height: 80px;
     width: 200px;
-    margin-top: 40px;
     margin-left: -505px;
 
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .desc {
@@ -70,8 +68,6 @@ body {
     align-items: center;
     justify-content: space-evenly;
     flex-direction: row;
-
-    
 }
 
 h1 {
