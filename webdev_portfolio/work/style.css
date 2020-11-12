@@ -71,7 +71,7 @@ body {
     justify-content: space-evenly;
     flex-direction: row;
 
-    z-index: -1;
+    
 }
 
 h1 {
@@ -80,6 +80,7 @@ h1 {
     color: #9febff;
 
     margin-top: 5px;
+    z-index: 1;
 }
 
 h2 {
@@ -92,7 +93,6 @@ h2 {
 }
 
 .links {
-    border: solid 3px red;
     width: 200px;
     height: 420px;
 
