@@ -40,8 +40,7 @@ body {
 }
 
 .bodycontainer {
-    height: 700px;
-    margin-top: 40px;
+    height: 645px;
 
     display: flex;
     flex-direction: column;
@@ -76,7 +75,7 @@ h1 {
     color: #9febff;
 }
 
-h2 {
+#h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-style: italic;
@@ -103,4 +102,8 @@ a {
 
 a:hover {
     color: #8a7dff;
+}
+
+#h2:hover {
+    color: #9febff;
 }

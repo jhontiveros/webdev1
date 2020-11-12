@@ -79,7 +79,7 @@ h1 {
     z-index: 1;
 }
 
-h2 {
+#h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-style: italic;
@@ -115,4 +115,8 @@ a {
 
 a:hover {
     color: #8a7dff;
+}
+
+#h2:hover {
+    color: #9febff;
 }
