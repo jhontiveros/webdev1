@@ -1,0 +1,36 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: ivory;
+}
+
+h1 {
+    color: rgb(235, 67, 67);
+    font-size: 5vw;
+}
+
+button {
+    width: auto;
+    background-color: seagreen;
+
+    font-size: 1.2vw;
+    color: ivory;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    font-size: 3vw;
+}
+
+#modal {
+    border: solid 2px black;
+    height: auto;
+    width: auto;
+
+    margin-top: 40px;
+    padding: 3vh;
+}
